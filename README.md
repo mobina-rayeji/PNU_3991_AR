@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-### میرمحمد کمالی
+### مبینارائیجی
  
 ---
 - [github](https://github.com/mir-mohammad/)
