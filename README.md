@@ -8,6 +8,5 @@
 - [resume](https://mir-mohammad.github.io/)
 - [SOP](https://mir-mohammad.github.io/SOP/) 
 - [javascript Certificate](js.pdf)
-- [HTML Certificate](html.pdf)
   
 ------------------
