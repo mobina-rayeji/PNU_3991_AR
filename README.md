@@ -5,8 +5,8 @@
 ---
 - [github](https://github.com/mobina-rayeji)
 - [PNU_3991_AR](https://github.com/mobina-rayeji/PNU_3991_AR)
-- [resume](https://mir-mohammad.github.io/)
-- [SOP](https://mir-mohammad.github.io/SOP/) 
+- [resume](https://mobina-rayeji.github.io/m-rayeji.github.io/)
+- [SOP](https://mobina-rayeji.github.io/SOP/) 
 - [javascript Certificate](js.pdf)
   
 ------------------
