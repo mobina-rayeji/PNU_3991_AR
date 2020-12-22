@@ -51,7 +51,7 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th ><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement">نظریه زبانها و ماشینها</a></th>
+    <th ></th>
     <th ></th>
     <th ></th>
     <th></th>
