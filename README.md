@@ -32,7 +32,7 @@
 ## دروس کارشناسی
 
 
-[روش_پژوهش_و_اراِِیه	02_1322010_](https://github.com/mobina-rayeji/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
+[02_روش_پژوهش_و_اراِِئه 1322010_](https://github.com/mobina-rayeji/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
 
 
 -----------------------
