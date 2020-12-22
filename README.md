@@ -32,7 +32,7 @@
 ## دروس کارشناسی
 
 
-[روش_پژوهش_و_اراِِیه	01_1322010_](https://github.com/sakineh-rahbari/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
+[روش_پژوهش_و_اراِِیه	02_1322010_](https://github.com/sakineh-rahbari/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
 
 
 -----------------------
